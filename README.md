@@ -1,6 +1,3 @@
----
-geometry: "left=3cm, right=3cm, top=3cm, bottom=3cm"
----
 # Ting Yao Fam
 
 Full-time engineer and part-time graduate student based in Singapore. Singaporean.
