@@ -6,15 +6,23 @@ Full-time engineer and part-time graduate student based in Singapore. Singaporea
 
 ## Technical Skills
 
-* **Data Engineering**: Airflow, Hive, Presto, Flink, Spark
-* **Databases**: SQL (Redshift, Athena, BigQuery, PostgreSQL, Hive, Presto, Spark SQL); NoSQL(DynamoDB)
+* **Data Engineering**: Flink, Hive, Presto, Spark, Hbase, Airflow
+* **Databases**: SQL (Clickhouse, Hive, Presto, Redshift, Athena, BigQuery, PostgreSQL); NoSQL(DynamoDB, Hbase)
 * **Cloud**: AWS Certified Solutions Architect, Google Cloud Certified Data Engineer
 * **DevOps**: Deployment with AWS CF, Serverless Application Model, ECS; CI/CD with AWS CodePipelines, GitHub Actions
-* **Languages**:  Python, Java, Scala, C; Some experience in R, Node.js, Go, C++;
+* **Languages**:  Java, Python, Scala, C; Some experience in R, Node.js, Go, C++;
 
 ## Professional Experience
 
-**Software Engineer (Data)** @ [Aqilliz](https://aqilliz.com/) _(May 2020 - Present)_
+**FX Systems Data Engineer** @ [Tencent](https://tencent.com/) _(Sep 2021 - Present)_
+
+* Delivered real-time Positions/PnL dashboards that helped traders/risk managers/management with monitoring risks
+* Built backend grpc service that serves time-series related data to customer-facing miniprogram in Wechat
+* Built batch data pipelines and dashboards for evaulating various hedging strategies, fx pricing strategies
+* **Tools used:** Flink, Hive, Spark, Clickhouse, Hbase, Graphana, GRPC
+* **Languages used:** Java, Python
+
+**Software Engineer (Data)** @ [Aqilliz](https://aqilliz.com/) _(May 2020 - Aug 2021)_
 
 * Designed, implemented and maintained the company's data infrastructure from scratch
 * Built streaming and batch data pipelines that reconile transactions from different data sources and deliver analytics
@@ -44,10 +52,11 @@ Full-time engineer and part-time graduate student based in Singapore. Singaporea
 
 ## Education
 
-**Georgia Institute of Technology** _(Aug 2020 - 2023)_
+**Georgia Institute of Technology** _(Aug 2020 - Present)_
 
 * Candidate for MS in Computer Science
 * Specialization: Computing Systems
+* Taking a year long break
 
 **Nanyang Technological University** - _Singapore (Aug 2012- Jun 2016)_
 
