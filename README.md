@@ -1,3 +1,6 @@
+---
+geometry: "left=3cm, right=3cm, top=3cm, bottom=3cm"
+---
 # Ting Yao Fam
 
 Full-time engineer and part-time graduate student based in Singapore. Singaporean.
@@ -31,7 +34,6 @@ Full-time engineer and part-time graduate student based in Singapore. Singaporea
 
 **Software Engineer (Data)** @ [HOOQ](https://en.wikipedia.org/wiki/Hooq) _(Mar 2019 - May 2020)_
 
-* Deliver various streaming and batch data pipelines for analytics
 * Rearchitected the data infrastructure from a purely data warehouse (Redshift) to data lake (S3, Redshift Spectrum/Athena, Redshift) design, reducing operating costs by > 20%
 * Improved readability, reliability, and flexibility of ETL process by rewriting the legacy ETL processes (Windows Scheduler with Pentaho Data Integration) on Airflow DAGs and Python
 * Conducted workshops and mentored junior team members
@@ -56,7 +58,6 @@ Full-time engineer and part-time graduate student based in Singapore. Singaporea
 
 * Candidate for MS in Computer Science
 * Specialization: Computing Systems
-* Taking a year long break
 
 **Nanyang Technological University** - _Singapore (Aug 2012- Jun 2016)_
 
