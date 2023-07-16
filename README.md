@@ -2,7 +2,7 @@
 
 Full-time engineer and part-time graduate student based in Singapore. Singaporean.
 
-[Email](mailto:tingyao.fam@gmail.com)  / [LinkedIn](https://www.linkedin.com/in/tingyao-fam/) / [GitHub](https://github.com/tingyao7798/)
+[Email](mailto:tingyao.fam@gmail.com)  / [LinkedIn](https://www.linkedin.com/in/tingyao-fam/)
 
 ## Technical Skills
 
@@ -14,12 +14,12 @@ Full-time engineer and part-time graduate student based in Singapore. Singaporea
 
 ## Professional Experience
 
-**FX Systems Data Engineer** @ [Tencent](https://tencent.com/) _(Sep 2021 - Present)_
+**FX Systems Data Engineer, FX Trading Dev Team** @ [Tencent](https://tencent.com/) _(Sep 2021 - Present)_
 
-* Delivered real-time Positions/PnL dashboards that helped traders/risk managers/management with monitoring risks
-* Built backend grpc service that serves time-series related data to customer-facing miniprogram in Wechat
-* Built batch data pipelines and dashboards for evaulating various hedging strategies, fx pricing strategies
-* **Tools used:** Flink, Hive, Spark, Clickhouse, Hbase, Graphana, GRPC
+* Built backend grpc services that serves low latency, highly available FX rates, trends, charts using Java SpringBoot, Clickhouse
+* Delivered real-time dashboards that helped traders/PMs/risk teams monitor real-time position exposure/PnL/risks using Flink, Kafka
+* Built batch data pipelines and dashboards for evaulating various fx hedging, pricing strategies
+* **Tools used:** Flink, Kafka, Clickhouse, Hive, Spark, , Hbase, Graphana, GRPC
 * **Languages used:** Java, Python
 
 **Software Engineer (Data)** @ [Aqilliz](https://aqilliz.com/) _(May 2020 - Aug 2021)_
@@ -29,7 +29,7 @@ Full-time engineer and part-time graduate student based in Singapore. Singaporea
 * **Tools used:** Airflow, Apache Flink, AWS ECS, Kinesis, Athena, Glue, S3, RDS, API Gateway, Lambda, Quicksight
 * **Languages used:** Python, Java, SQL, Node.js, Go
 
-**Software Engineer (Data)** @ [HOOQ](https://en.wikipedia.org/wiki/Hooq) _(Mar 2019 - May 2020)_
+**Data Engineer** @ [HOOQ](https://en.wikipedia.org/wiki/Hooq) _(Mar 2019 - May 2020)_
 
 * Rearchitected the data infrastructure from a purely data warehouse (Redshift) to data lake (S3, Redshift Spectrum/Athena, Redshift) design, reducing operating costs by > 20%
 * Improved readability, reliability, and flexibility of ETL process by rewriting the legacy ETL processes (Windows Scheduler with Pentaho Data Integration) on Airflow DAGs and Python
@@ -67,6 +67,13 @@ Full-time engineer and part-time graduate student based in Singapore. Singaporea
 * Student Exchange Programme at School of Information and Communication Technology
 
 ## Awards
+**GM Award(team)** - _Tencent (2023H1)_
+
+* For platform delivering record transaction volume and MAU
+
+**Craftsman Award(personal)** - _Tencent (2022Q4)_
+
+* For rearchitecting retrieval of fx rates, reducing execution from order of seconds to sub-100ms
 
 **Certificate of Distinction** – _NTU (Jun 2015)_
 
