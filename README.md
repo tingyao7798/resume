@@ -1,6 +1,6 @@
 # Ting Yao Fam
 
-Full-time engineer and part-time graduate student based in Singapore. Singaporean.
+Full-time software engineer specialising in data and part-time graduate student based in Singapore. Singaporean.
 
 [Email](mailto:tingyao.fam@gmail.com)  / [LinkedIn](https://www.linkedin.com/in/tingyao-fam/)
 
@@ -10,14 +10,14 @@ Full-time engineer and part-time graduate student based in Singapore. Singaporea
 * **Databases**: SQL (Clickhouse, Hive, Presto, Redshift, Athena, BigQuery, PostgreSQL); NoSQL(DynamoDB, Hbase)
 * **Cloud**: AWS Certified Solutions Architect, Google Cloud Certified Data Engineer
 * **DevOps**: Deployment with AWS CF, Serverless Application Model, ECS; CI/CD with AWS CodePipelines, GitHub Actions
-* **Languages**:  Java, Python, Scala, C; Some experience in R, Node.js, Go, C++;
+* **Languages**:  Java, Python, Scala, C; Limited experience in R, Node.js, Go, C++;
 
 ## Professional Experience
 
 **FX Systems Data Engineer, FX Trading Dev Team** @ [Tencent](https://tencent.com/) _(Sep 2021 - Present)_
 
 * Built backend grpc services that serves low latency, highly available FX rates, trends, charts using Java SpringBoot, Clickhouse
-* Delivered real-time dashboards that helped traders/PMs/risk teams monitor real-time position exposure/PnL/risks using Flink, Kafka
+* Delivered real-time analytics that helped traders/product/risk teams monitor real-time position exposure/PnL/risks using Flink, Kafka
 * Built batch data pipelines and dashboards for evaulating various fx hedging, pricing strategies
 * **Tools used:** Flink, Kafka, Clickhouse, Hive, Spark, , Hbase, Graphana, GRPC
 * **Languages used:** Java, Python
