@@ -6,19 +6,20 @@ Full-time software engineer specialising in data and part-time graduate student 
 
 ## Technical Skills
 
+* **Languages**:  Proficient in Java, Python, Scala; Limited experience in JS/TS, R, Node.js, Go, C, C++;
 * **Data Engineering**: Flink, Hive, Presto, Spark, Hbase, Airflow
 * **Databases**: SQL (Clickhouse, Hive, Presto, Redshift, Athena, BigQuery, PostgreSQL); NoSQL(DynamoDB, Hbase)
 * **Cloud**: AWS Certified Solutions Architect, Google Cloud Certified Data Engineer
 * **DevOps**: Deployment with AWS CF, Serverless Application Model, ECS; CI/CD with AWS CodePipelines, GitHub Actions
-* **Languages**:  Java, Python, Scala, C; Limited experience in R, Node.js, Go, C++;
 
 ## Professional Experience
 
-**FX Systems Data Engineer, FX Trading Dev Team** @ [Tencent](https://tencent.com/) _(Sep 2021 - Present)_
+**Senior Software Engineer (Data), FX Trading Dev Team** @ [Tencent](https://tencent.com/) _(Sep 2021 - Present)_
 
 * Built backend grpc services that serves low latency, highly available FX rates, trends, charts using Java SpringBoot, Clickhouse
 * Delivered real-time analytics that helped traders/product/risk teams monitor real-time position exposure/PnL/risks using Flink, Kafka
 * Built batch data pipelines and dashboards for evaulating various fx hedging, pricing strategies
+* Patent filed and awarded for otimising time series query on FX rates data
 * **Tools used:** Flink, Kafka, Clickhouse, Hive, Spark, , Hbase, Graphana, GRPC
 * **Languages used:** Java, Python
 
@@ -29,7 +30,7 @@ Full-time software engineer specialising in data and part-time graduate student 
 * **Tools used:** Airflow, Apache Flink, AWS ECS, Kinesis, Athena, Glue, S3, RDS, API Gateway, Lambda, Quicksight
 * **Languages used:** Python, Java, SQL, Node.js, Go
 
-**Data Engineer** @ [HOOQ](https://en.wikipedia.org/wiki/Hooq) _(Mar 2019 - May 2020)_
+**Software Engineer (Data)** @ [HOOQ](https://en.wikipedia.org/wiki/Hooq) _(Mar 2019 - May 2020)_
 
 * Rearchitected the data infrastructure from a purely data warehouse (Redshift) to data lake (S3, Redshift Spectrum/Athena, Redshift) design, reducing operating costs by > 20%
 * Improved readability, reliability, and flexibility of ETL process by rewriting the legacy ETL processes (Windows Scheduler with Pentaho Data Integration) on Airflow DAGs and Python
@@ -67,13 +68,14 @@ Full-time software engineer specialising in data and part-time graduate student 
 * Student Exchange Programme at School of Information and Communication Technology
 
 ## Awards
-**GM Award(team)** - _Tencent (2023H1)_
+**GM Award (team)** - _Tencent (2023)_
 
-* For platform delivering record transaction volume and MAU
+* For trading platform delivering record transaction volume and pnl
 
-**Craftsman Award(personal)** - _Tencent (2022Q4)_
+**Craftsman Award (personal)** - _Tencent (2022Q4)_
 
 * For rearchitecting retrieval of fx rates, reducing execution from order of seconds to sub-100ms
+* Filed and Awarded Patent
 
 **Certificate of Distinction** – _NTU (Jun 2015)_
 
