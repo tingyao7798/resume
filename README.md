@@ -1,6 +1,6 @@
 # Ting Yao Fam
 
-Full-time software engineer specialising in data and part-time graduate student based in Singapore. Singaporean.
+Full-time software engineer specializing in data and part-time graduate student based in Singapore. Singaporean.
 
 [Email](mailto:tingyao.fam@gmail.com)  / [LinkedIn](https://www.linkedin.com/in/tingyao-fam/)
 
@@ -19,7 +19,7 @@ Full-time software engineer specialising in data and part-time graduate student 
 * Built backend grpc services that serves low latency, highly available FX rates, trends, charts using Java SpringBoot, Clickhouse
 * Delivered real-time analytics that helped traders/product/risk teams monitor real-time position exposure/PnL/risks using Flink, Kafka
 * Built batch data pipelines and dashboards for evaulating various fx hedging, pricing strategies
-* Patent filed and awarded for otimising time series query on FX rates data
+* Patent filed and awarded for optimizing time series query on FX rates data
 * **Tools used:** Flink, Kafka, Clickhouse, Hive, Spark, , Hbase, Graphana, GRPC
 * **Languages used:** Java, Python
 
@@ -32,7 +32,7 @@ Full-time software engineer specialising in data and part-time graduate student 
 
 **Software Engineer (Data)** @ [HOOQ](https://en.wikipedia.org/wiki/Hooq) _(Mar 2019 - May 2020)_
 
-* Rearchitected the data infrastructure from a purely data warehouse (Redshift) to data lake (S3, Redshift Spectrum/Athena, Redshift) design, reducing operating costs by > 20%
+* Re-architected the data infrastructure from a purely data warehouse (Redshift) to data lake (S3, Redshift Spectrum/Athena, Redshift) design, reducing operating costs by > 20%
 * Improved readability, reliability, and flexibility of ETL process by rewriting the legacy ETL processes (Windows Scheduler with Pentaho Data Integration) on Airflow DAGs and Python
 * Conducted workshops and mentored junior team members
 
@@ -74,7 +74,7 @@ Full-time software engineer specialising in data and part-time graduate student 
 
 **Craftsman Award (personal)** - _Tencent (2022Q4)_
 
-* For rearchitecting retrieval of fx rates, reducing execution from order of seconds to sub-100ms
+* For re-architecting retrieval of fx rates, reducing execution from order of seconds to sub-100ms
 * Filed and Awarded Patent
 
 **Certificate of Distinction** – _NTU (Jun 2015)_
@@ -83,4 +83,4 @@ Full-time software engineer specialising in data and part-time graduate student 
 
 **President Research Scholar with Merit** – _NTU (Jun 2014)_
 
-* Awarded for undergraduate research work in “Optimisation of Photon Detection Systems” with DSO National Laboratories
+* Awarded for undergraduate research work in “Optimization of Photon Detection Systems” with DSO National Laboratories
