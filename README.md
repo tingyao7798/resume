@@ -1,34 +1,30 @@
 
 # Ting Yao Fam
 
-Full-time software engineer specializing in data and part-time graduate student based in Singapore. Singaporean.
+Software Engineer specializing in data, enjoys reading about databases, finance, trading, digital assets. Singaporean.
 
 [Email](mailto:tingyao.fam@gmail.com)  / [LinkedIn](https://www.linkedin.com/in/tingyao-fam/)
 
 ## Technical Skills
 
-* **Languages**: Proficient in Java, Python, Scala; Limited experience in JS/TS, R, Node.js, Go, C, C#, C++
-* **Data Engineering**: Flink, Hive, Presto, Spark, Airflow
-* **Databases**: SQL (StarRocks, ClickHouse, Hive, Presto, Redshift, Athena, BigQuery, PostgreSQL); NoSQL (DynamoDB, HBase)
+* **Languages**: Proficient in Java, Python, Scala, SQL; Limited experience in JS/TS, R, Node.js, Go, C, C#, C++
+* **Data Engineering**: Flink, Kafka, Pulsar, Clickhouse, Spark, Airflow
+* **Java**: SpringBoot, MyBatis, gRPC
 * **Cloud**: AWS Certified Solutions Architect, Google Cloud Certified Data Engineer
-* **DevOps**: Deployment with AWS CloudFormation, Serverless Application Model, ECS; CI/CD with AWS CodePipeline, GitHub Actions
 
 ## Professional Experience
 
 **Senior Software Engineer (Data), FX Trading Dev Team** @ [Tencent](https://tencent.com/) _(Sep 2021 - Present)_
 
-* Built backend gRPC services that serve low latency, highly available FX market data, time series trends, and charts using Java, ClickHouse
-* Delivered real-time and batch analytics dashboards that helped traders, product, and risk teams monitor real-time positions, P&L, and risks using Flink, Kafka/Pulsar, Grafana, Spark, Hive
-* Led the design of the FX team's DataLake solution, reducing the time to production of dashboards from T+1 to under a minute using StarRocks, Iceberg, Flink
+* Pioneered, developed and maintained the end-to-end data systems from ingestion to dashboard, for traders, product, and risk teams to monitor real-time positions, PnL, and risks
+* Delivered backend rpc services that serves low latency, highly available FX market data, time series trends, and charts
+* Architected the design and migration of the FX team's DataLake solution, reducing the time to production of dashboards from day to minutes
 * Filed and awarded a patent for optimizing time series queries on FX rates data
-* **Languages used:** Java, Python
 
 **Software Engineer (Data)** @ [Aqilliz](https://aqilliz.com/) _(May 2020 - Aug 2021)_
 
 * Designed, implemented, and maintained the company's data infrastructure from scratch
 * Built streaming and batch data pipelines that reconcile transactions from different data sources and deliver analytics
-* **Tools used:** Airflow, Apache Flink, AWS ECS, Kinesis, Athena, Glue, S3, RDS, API Gateway, Lambda, QuickSight
-* **Languages used:** Python, Java, SQL, Node.js, Go
 
 **Software Engineer (Data)** @ [HOOQ](https://en.wikipedia.org/wiki/Hooq) _(Mar 2019 - May 2020)_
 
